@@ -2,9 +2,9 @@
 
 🧠 Informático | 🛡️ Ciberseguridad | 🎓 Docente
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=tuusuario&label=Visitas%20al%20perfil) 
-![Seguidores](https://img.shields.io/github/followers/tuusuario?label=Seguidores&style=social) 
-![Estrellas](https://img.shields.io/github/stars/tuusuario?label=Estrellas&style=social)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=ArturoGA-creator&label=Visitas%20al%20perfil) 
+![Seguidores](https://img.shields.io/github/followers/ArturoGA-creator?label=Seguidores&style=social) 
+![Estrellas](https://img.shields.io/github/stars/ArturoGA-creator?label=Estrellas&style=social)
 
 ---
 
