@@ -1,6 +1,6 @@
 # ✨ [Arturo Gordo Arco]
 
-🧠 Informático | 🛡️ Ciberseguridad | 🎓 Docente
+🧠 Informático | 🎓 Docente
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=ArturoGA-creator&label=Visitas%20al%20perfil) 
 ![Seguidores](https://img.shields.io/github/followers/ArturoGA-creator?label=Seguidores&style=social) 
