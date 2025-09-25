@@ -10,18 +10,11 @@
 
 ## 🧩 Sobre mí
 
-Informático especializado en **ciberseguridad**, con experiencia en **Linux**, **Python**, redes, **hacking ético** y administración de sistemas.
-
-Apasionado por la **ciberseguridad ofensiva y defensiva**, centrado en proteger y fortalecer infraestructuras digitales, especialmente en entornos Linux.
-
-Trabajo como **freelance**, combinando la **docencia** en informática y ciberseguridad con la gestión y securización de servidores.  
-También comparto contenido educativo en mi canal de YouTube:
-
-🔗 [Mi Canal de YouTube](https://youtube.com/@tunombre)
+Informático
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Soft skills
 
 - 🔹 [tulaboratoriovuln.com](https://tulaboratoriovuln.com) – Laboratorios vulnerables para practicar ciberseguridad.
 - 🔹 [miacademiacyber.com](https://miacademiacyber.com) – Plataforma de formación online en ciberseguridad.
