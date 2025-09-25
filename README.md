@@ -16,11 +16,11 @@ Informático
 
 ## 🚀 Soft skills
 
-- 🔹 [tulaboratoriovuln.com](https://tulaboratoriovuln.com) – Laboratorios vulnerables para practicar ciberseguridad.
-- 🔹 [miacademiacyber.com](https://miacademiacyber.com) – Plataforma de formación online en ciberseguridad.
-- 🔹 [entornosrealistas.io](https://entornosrealistas.io) – Escenarios prácticos de hacking.
-- 🔹 [tuusuario.github.io/portfolio](https://tuusuario.github.io/portfolio) – Mi portfolio personal.
-- 🔹 [colabartistico.art](https://colabartistico.art) – Proyecto colaborativo de diseño y arte digital.
+- 🔹 
+- 🔹 
+- 🔹 
+- 🔹 
+- 🔹 
 
 ---
 
